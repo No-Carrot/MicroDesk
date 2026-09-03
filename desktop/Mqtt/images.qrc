@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.ico</file>
+        <file>images/back.png</file>
+        <file>images/quit.png</file>
+        <file>images/cur.png</file>
+        <file>images/hum.png</file>
+        <file>images/temp.png</file>
+        <file>images/vol.png</file>
+        <file>images/vr.png</file>
+        <file>images/pw.png</file>
+        <file>images/cpu.png</file>
+        <file>images/beepoff.png</file>
+        <file>images/beepon.png</file>
+        <file>images/extio1off.png</file>
+        <file>images/extio1on.png</file>
+        <file>images/led1off.png</file>
+        <file>images/led1on.png</file>
+        <file>images/led2off.png</file>
+        <file>images/led2on.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../pinyininputmethod/pinyin/data/dict_pinyin.dat</file>
+    </qresource>
+</RCC>

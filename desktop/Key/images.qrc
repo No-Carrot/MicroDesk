@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.ico</file>
+        <file>images/back.png</file>
+        <file>images/quit.png</file>
+        <file>images/downoff.png</file>
+        <file>images/downon.png</file>
+        <file>images/escoff.png</file>
+        <file>images/escon.png</file>
+        <file>images/leftoff.png</file>
+        <file>images/lefton.png</file>
+        <file>images/okoff.png</file>
+        <file>images/okon.png</file>
+        <file>images/rightoff.png</file>
+        <file>images/righton.png</file>
+        <file>images/upoff.png</file>
+        <file>images/upon.png</file>
+    </qresource>
+</RCC>

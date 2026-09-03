@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProject>
+<!-- Written by QtCreator 6.0.2, 2026-08-12T17:46:50. -->
+<qtcreator>
+ <data>
+  <variable>EnvironmentId</variable>
+  <value type="QByteArray">{cb1656ab-82bd-4f07-9267-4b4fcec74032}</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.ActiveTarget</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.EditorSettings</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
+   <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
+   <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
+    <value type="QString" key="language">Cpp</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
+    <value type="QString" key="language">QmlJS</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
+    </valuemap>
+   </valuemap>
+   <value type="int" key="EditorConfiguration.CodeStyle.Count">2</value>
+   <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
+   <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
+   <value type="int" key="EditorConfiguration.IndentSize">4</value>
+   <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
+   <value type="int" key="EditorConfiguration.MarginColumn">80</value>
+   <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
+   <value type="bool" key="EditorConfiguration.MouseNavigation">true</value>
+   <value type="int" key="EditorConfiguration.PaddingMode">1</value>
+   <value type="bool" key="EditorConfiguration.PreferSingleLineComments">false</value>
+   <value type="bool" key="EditorConfiguration.ScrollWheelZooming">true</value>
+   <value type="bool" key="EditorConfiguration.ShowMargin">false</value>
+   <value type="int" key="EditorConfiguration.SmartBackspaceBehavior">0</value>
+   <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
+   <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
+   <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
+   <value type="int" key="EditorConfiguration.TabSize">8</value>
+   <value type="bool" key="EditorConfiguration.UseGlobal">true</value>
+   <value type="bool" key="EditorConfiguration.UseIndenter">false</value>
+   <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
+   <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
+   <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
+   <value type="bool" key="EditorConfiguration.cleanWhitespace">true</value>
+   <value type="QString" key="EditorConfiguration.ignoreFileTypes">*.md, *.MD, Makefile</value>
+   <value type="bool" key="EditorConfiguration.inEntireDocument">false</value>
+   <value type="bool" key="EditorConfiguration.skipTrailingWhitespace">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.PluginSettings</variable>
+  <valuemap type="QVariantMap">
+   <valuemap type="QVariantMap" key="AutoTest.ActiveFrameworks">
+    <value type="bool" key="AutoTest.Framework.Boost">true</value>
+    <value type="bool" key="AutoTest.Framework.CTest">false</value>
+    <value type="bool" key="AutoTest.Framework.Catch">true</value>
+    <value type="bool" key="AutoTest.Framework.GTest">true</value>
+    <value type="bool" key="AutoTest.Framework.QtQuickTest">true</value>
+    <value type="bool" key="AutoTest.Framework.QtTest">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="AutoTest.CheckStates">
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:Tst_MqttConformance">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:basic_test">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:basic_test_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:offline_message_queueing_test">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:offline_message_queueing_test_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:retained_message_test">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:retained_message_test_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:subscribe_failure_test">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:subscribe_failure_test_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:will_message_test">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:will_message_test_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:zero_length_clientid_test">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/tst_conformance.cpp:zero_length_clientid_test_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:QoS1">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:QoS2">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:Tst_QMqttClient">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:authentication">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:compliantTopic">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:compliantTopic_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:dataIncludingZero">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:dataIncludingZero_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:getSetCheck">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:getSetCheck_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:keepAlive">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:keepAlive_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:messageStatus">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:messageStatusReceive">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:messageStatusReceive_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:messageStatus_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:openIODevice_QTBUG66955">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:openIODevice_QTBUG66955_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:publishLongTopic">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:publishLongTopic_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:reconnect_QTBUG65726">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:reconnect_QTBUG65726_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:retainMessage">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:retainMessage_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:sendReceive">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:sendReceive_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:staticProperties_QTBUG_67176">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:staticProperties_QTBUG_67176_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:subscribeLongTopic">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:subscribeLongTopic_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:subscriptionIdsOverlap">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:willMessage">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/tst_qmqttclient.cpp:willMessage_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:assignedClientId">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:getSet">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:maximumPacketSize">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:maximumTopicAlias">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:maximumTopicAliasReceive">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:receiveServerProperties">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:tst_QMqttConnectionProperties">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/tst_qmqttconnectionproperties.cpp:userProperties">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/tst_qmqttcontrolpacket.cpp:0">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/tst_qmqttcontrolpacket.cpp:Tst_QMqttControlPacket">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/tst_qmqttcontrolpacket.cpp:append">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/tst_qmqttcontrolpacket.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/tst_qmqttcontrolpacket.cpp:header">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/tst_qmqttcontrolpacket.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/tst_qmqttcontrolpacket.cpp:simple">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/tst_qmqttcontrolpacket.cpp:simple_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:delay &lt; expiry">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:delay == expiry">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:delay &gt; expiry">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:delay &gt; expiry(0)">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:getSet">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:payloadFormat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:tst_QMqttLastWillProperties">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:willDelay">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/tst_qmqttlastwillproperties.cpp:willDelay_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttpublishproperties/tst_qmqttpublishproperties.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttpublishproperties/tst_qmqttpublishproperties.cpp:getSet">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttpublishproperties/tst_qmqttpublishproperties.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttpublishproperties/tst_qmqttpublishproperties.cpp:propertyConsistency">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttpublishproperties/tst_qmqttpublishproperties.cpp:topicAlias">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttpublishproperties/tst_qmqttpublishproperties.cpp:tst_QMqttPublishProperties">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:Tst_QMqttSubscription">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:getSetCheck">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:non - non">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:non - yes">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:reconnect">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:reconnect_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:sharedConnection">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:sharedNonShared">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:sharedNonShared_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:wildCards">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:wildCards_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:yes - non">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/tst_qmqttsubscription.cpp:yes - yes">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscriptionproperties/tst_qmqttsubscriptionproperties.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscriptionproperties/tst_qmqttsubscriptionproperties.cpp:getSet">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscriptionproperties/tst_qmqttsubscriptionproperties.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscriptionproperties/tst_qmqttsubscriptionproperties.cpp:subscribe">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscriptionproperties/tst_qmqttsubscriptionproperties.cpp:tst_QMqttSubscriptionProperties">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicfilter/tst_qmqtttopicfilter.cpp:Tst_QMqttTopicFilter">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicfilter/tst_qmqtttopicfilter.cpp:checkValidity">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicfilter/tst_qmqtttopicfilter.cpp:matches">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicfilter/tst_qmqtttopicfilter.cpp:usableWithQHash">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicfilter/tst_qmqtttopicfilter.cpp:usableWithQMap">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicfilter/tst_qmqtttopicfilter.cpp:usableWithQVector">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:1">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:2">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:3">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:4">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:5">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:6">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:7">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:8">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:Tst_QMqttTopicName">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:checkLevelCount">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:checkLevels">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:checkLevels_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:checkValidity">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:usableWithQHash">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:usableWithQMap">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/tst_qmqtttopicname.cpp:usableWithQVector">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:1/100">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:1/1000">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:2/100">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:2/1000">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:Tst_QMqttClient">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:cleanupTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:initTestCase">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:qos0">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:qos1">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:qos2">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:stressTest">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:stressTest2">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:stressTest2_data">Unchecked</value>
+    <value type="Qt::CheckState" key="1@/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/tst_qmqttclient.cpp:stressTest_data">Unchecked</value>
+   </valuemap>
+   <value type="int" key="AutoTest.RunAfterBuild">0</value>
+   <value type="bool" key="AutoTest.UseGlobal">true</value>
+   <valuelist type="QVariantList" key="ClangCodeModel.CustomCommandLineKey"/>
+   <value type="bool" key="ClangCodeModel.UseGlobalConfig">true</value>
+   <value type="QString" key="ClangCodeModel.WarningConfigId">Builtin.BuildSystem</value>
+   <valuemap type="QVariantMap" key="ClangTools">
+    <value type="bool" key="ClangTools.AnalyzeOpenFiles">true</value>
+    <value type="bool" key="ClangTools.BuildBeforeAnalysis">true</value>
+    <value type="QString" key="ClangTools.DiagnosticConfig">Builtin.DefaultTidyAndClazy</value>
+    <value type="int" key="ClangTools.ParallelJobs">8</value>
+    <valuelist type="QVariantList" key="ClangTools.SelectedDirs"/>
+    <valuelist type="QVariantList" key="ClangTools.SelectedFiles"/>
+    <valuelist type="QVariantList" key="ClangTools.SuppressedDiagnostics"/>
+    <value type="bool" key="ClangTools.UseGlobalSettings">true</value>
+   </valuemap>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">桌面</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">桌面</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{fd02db8d-75a9-4d3c-a2d0-845d4257131b}</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <valuelist type="QVariantList" key="QtProjectManager.QMakeBuildStep.SelectedAbis"/>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.CustomParsers"/>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ParseStandardOutput">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">0</value>
+    <value type="int" key="QtQuickCompiler">0</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.DeployConfiguration.0">
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Deploy</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">1</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.DeployConfiguration.CustomData"/>
+    <value type="bool" key="ProjectExplorer.DeployConfiguration.CustomDataEnabled">false</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.DefaultDeployConfiguration</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.0">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/consolepubsub/qtmqtt_pub.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/consolepubsub/qtmqtt_pub.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/examples/mqtt/consolepubsub</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/consolepubsub/qtmqtt_sub.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/consolepubsub/qtmqtt_sub.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/examples/mqtt/consolepubsub</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.10">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">qmqttclient (tests/auto/qmqttclient/qmqttclient.pro)</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/qmqttclient.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttclient/qmqttclient.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqttclient</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.11">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/qmqttconnectionproperties.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttconnectionproperties/qmqttconnectionproperties.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqttconnectionproperties</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.12">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/qmqttcontrolpacket.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttcontrolpacket/qmqttcontrolpacket.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqttcontrolpacket</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.13">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/qmqttlastwillproperties.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttlastwillproperties/qmqttlastwillproperties.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqttlastwillproperties</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.14">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttpublishproperties/qmqttpublishproperties.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttpublishproperties/qmqttpublishproperties.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqttpublishproperties</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.15">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/qmqttsubscription.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscription/qmqttsubscription.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqttsubscription</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.16">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscriptionproperties/qmqttsubscriptionproperties.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqttsubscriptionproperties/qmqttsubscriptionproperties.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqttsubscriptionproperties</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.17">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">qmqttclient (tests/benchmarks/qmqttclient/qmqttclient.pro)</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/qmqttclient.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/qmqttclient.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/benchmarks/qmqttclient</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.2">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicfilter/qmqtttopicfilter.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicfilter/qmqtttopicfilter.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqtttopicfilter</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.3">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/qmqtttopicname.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/qmqtttopicname/qmqtttopicname.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/qmqtttopicname</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.4">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/quickpublication/quickpublication.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/quickpublication/quickpublication.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/examples/mqtt/quickpublication</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.5">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/quicksubscription/quicksubscription.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/quicksubscription/quicksubscription.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/examples/mqtt/quicksubscription</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.6">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/simpleclient/simpleclient.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/simpleclient/simpleclient.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/examples/mqtt/simpleclient</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.7">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/subscriptions/subscriptions.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/subscriptions/subscriptions.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/examples/mqtt/subscriptions</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.8">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/websocketsubscription/websocketsubscription.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/websocketsubscription/websocketsubscription.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/examples/mqtt/websocketsubscription</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.9">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/conformance.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/auto/conformance/conformance.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-unknown-Release/tests/auto/conformance</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">18</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">IMX6 Qt 5.15.8 GCC 32bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">IMX6 Qt 5.15.8 GCC 32bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{4f71157e-8c46-412b-8b93-ebc99903b698}</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/linux/emb/14-desktop/build-qtmqtt-IMX6_Qt_5_15_8_GCC_32bit-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/linux/emb/14-desktop/build-qtmqtt-IMX6_Qt_5_15_8_GCC_32bit-Release</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <valuelist type="QVariantList" key="QtProjectManager.QMakeBuildStep.SelectedAbis"/>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.CustomParsers"/>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ParseStandardOutput">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">0</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.DeployConfiguration.0">
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Deploy</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">1</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.DeployConfiguration.CustomData"/>
+    <value type="bool" key="ProjectExplorer.DeployConfiguration.CustomDataEnabled">false</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.DefaultDeployConfiguration</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.0">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/consolepubsub/qtmqtt_pub.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/consolepubsub/qtmqtt_pub.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-IMX6_Qt_5_15_8_GCC_32bit-Release/examples/mqtt/consolepubsub</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/consolepubsub/qtmqtt_sub.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/consolepubsub/qtmqtt_sub.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-IMX6_Qt_5_15_8_GCC_32bit-Release/examples/mqtt/consolepubsub</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.2">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/simpleclient/simpleclient.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/simpleclient/simpleclient.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-IMX6_Qt_5_15_8_GCC_32bit-Release/examples/mqtt/simpleclient</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.3">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/subscriptions/subscriptions.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/examples/mqtt/subscriptions/subscriptions.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-IMX6_Qt_5_15_8_GCC_32bit-Release/examples/mqtt/subscriptions</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.4">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/qmqttclient.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/linux/emb/14-desktop/qtmqtt-5.15.2/tests/benchmarks/qmqttclient/qmqttclient.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/linux/emb/14-desktop/build-qtmqtt-IMX6_Qt_5_15_8_GCC_32bit-Release/tests/benchmarks/qmqttclient</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">5</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.TargetCount</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
+  <value type="int">22</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">22</value>
+ </data>
+</qtcreator>

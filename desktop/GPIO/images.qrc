@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.ico</file>
+        <file>images/back.png</file>
+        <file>images/led1off.png</file>
+        <file>images/led1on.png</file>
+        <file>images/beepoff.png</file>
+        <file>images/beepon.png</file>
+        <file>images/led2off.png</file>
+        <file>images/led2on.png</file>
+        <file>images/extio1off.png</file>
+        <file>images/extio1on.png</file>
+        <file>images/extio2off.png</file>
+        <file>images/extio2on.png</file>
+        <file>images/extio3off.png</file>
+        <file>images/extio3on.png</file>
+        <file>images/quit.png</file>
+    </qresource>
+</RCC>
